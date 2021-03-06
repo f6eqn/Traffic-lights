@@ -42,18 +42,18 @@ Bilan:
     deux plates formes.
 
 2 - Les spécificités suivantes ont été identifiées:
-	- boucle itérative "for" avec utilisation de liste (for in range) ou substitution avec une boucle while.
-	- branchement conditionnel en adressage indirect (recherche en table) en remplacement d'un switch/case
-	- transmission des données globales/locales au sein des fonctions.
-	- gestion des interruptions du module "machine"
+- boucle itérative "for" avec utilisation de liste (for in range) ou substitution avec une boucle while.
+- branchement conditionnel en adressage indirect (recherche en table) en remplacement d'un switch/case
+- transmission des données globales/locales au sein des fonctions.
+- gestion des interruptions du module "machine"
 
 3 - Les difficultés rencontrées ont été les suivantes:
-	- faible disponibilité de documentation en français sur le Net.
-	- les exemples, manuels ou tutoriels sont soit trop simples soit faisant appel à des plates formes différentes.
-	- la définition des sous-programmes (routines, fonctions) et l'usage de variables globales/locales est difficile
-	  du fait de la trop grande simplicité du Python dans ce domaine (absence de définition des types de variables)
-	  et de la particularité du Micro Python (utilisation du "return"?)
-	- faible documentation du machine.Pin.IRQ et parametrage de sa routine call_back.
+- faible disponibilité de documentation en français sur le Net.
+- les exemples, manuels ou tutoriels sont soit trop simples soit faisant appel à des plates formes différentes.
+- la définition des sous-programmes (routines, fonctions) et l'usage de variables globales/locales est difficile
+- du fait de la trop grande simplicité du Python dans ce domaine (absence de définition des types de variables)
+- et de la particularité du Micro Python (utilisation du "return"?)
+- faible documentation du machine.Pin.IRQ et parametrage de sa routine call_back.
 
 Points forts:
 -------------
