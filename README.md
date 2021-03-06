@@ -58,7 +58,7 @@ Bilan:
 Points forts:
 -------------
 
-L'étude a grandement été facilité par l'ouvrage "Get started with Micro Python on Raspberry Pi Pico" de l'organisation
+L'étude a grandement été facilitée par l'ouvrage "Get started with Micro Python on Raspberry Pi Pico" de l'organisation
 Raspberry Pi (voir document Rpi_Pipico_Digital_v10.pdf). La progression est très pédagogique et particulièrement bien
 illustrée et documentée. Dommage que le document ne soit disponible qu'en anglais. Ce document devrait constituer
 un précieux bréviaire (après traduction) pour la formation de débutants dans un Fablab ou dans l'enseignement.
