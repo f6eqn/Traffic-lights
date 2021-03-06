@@ -51,7 +51,7 @@ Bilan:
 - faible disponibilité de documentation en français sur le Net.
 - les exemples, manuels ou tutoriels sont soit trop simples soit faisant appel à des plates formes différentes.
 - la définition des sous-programmes (routines, fonctions) et l'usage de variables globales/locales est difficile
-- du fait de la trop grande simplicité du Python dans ce domaine (absence de définition des types de variables)
+du fait de la trop grande simplicité du Python dans ce domaine (absence de définition des types de variables)
 - et de la particularité du Micro Python (utilisation du "return"?)
 - faible documentation du machine.Pin.IRQ et parametrage de sa routine call_back.
 
